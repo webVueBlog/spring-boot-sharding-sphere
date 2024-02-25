@@ -32,6 +32,10 @@ sub-db-table  #实现分库分表功能
 
 sub-db-table-read-write   #实现分库分表 + 读写分离
 
+![image](https://github.com/webVueBlog/spring-boot-sharding-sphere/assets/59645426/99db84b4-497b-434e-acd2-90b8d9a203de)
+
+<img width="796" alt="image" src="https://github.com/webVueBlog/spring-boot-sharding-sphere/assets/59645426/19e8a7f6-c4ea-4dc4-8eb6-3bdde49a5108">
+
 sub-table #实现分表功能
 
 sub-table-read-write  #实现分表 + 读写分离
