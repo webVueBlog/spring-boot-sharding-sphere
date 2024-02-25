@@ -6,10 +6,11 @@
 spring-boot-sharding-sphere # 父工程
  
 db-read-write  #实现读写分离功能
-sub-table #实现分表功能
 sub-db-table  #实现分库分表功能
-sub-table-read-write  #实现分表 + 读写分离
 sub-db-table-read-write   #实现分库分表 + 读写分离
+
+sub-table #实现分表功能
+sub-table-read-write  #实现分表 + 读写分离
 ```
 
 db-read-write  #实现读写分离功能
