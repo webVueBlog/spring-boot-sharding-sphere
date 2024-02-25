@@ -38,4 +38,8 @@ sub-db-table-read-write   #实现分库分表 + 读写分离
 
 sub-table #实现分表功能
 
+<img width="863" alt="image" src="https://github.com/webVueBlog/spring-boot-sharding-sphere/assets/59645426/a85c5ded-d444-41b2-96b9-39446a027a46">
+
+![image](https://github.com/webVueBlog/spring-boot-sharding-sphere/assets/59645426/40ae1bea-2ec0-4232-a8e8-a2ad6a7ae3d8)
+
 sub-table-read-write  #实现分表 + 读写分离
